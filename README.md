@@ -1,4 +1,4 @@
 # Teste Repositóoio
 
 Testando criação de Repositório 
-(curso e Vídeo) 2026
+(curso e Vídeo) 2026...
